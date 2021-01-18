@@ -1,2 +1,2 @@
 def clear_fun():
-    return "Test complete somth"
+    return "Test complete v2.0"
