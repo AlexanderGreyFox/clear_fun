@@ -55,7 +55,7 @@ def sec_test_function():
     return {'body': ''}
 
 def clear_fun():
-    return "Test complete!!"
+    return "Test complete!!!"
 
 def list_fun():
     return ['test', 'complete']
