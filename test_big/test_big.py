@@ -10,5 +10,5 @@ import theano
 
 
 def simple_function():
-    print('1')
+    print('2')
     return('ok')
