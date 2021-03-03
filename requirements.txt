@@ -1,0 +1,12 @@
+aiohttp>=3.1.0
+boto>=2.49.0
+motor
+loguru
+keystoneauth1==3.17.1
+python-keystoneclient==3.21.0
+aiohttp-swagger
+pandas
+matplotlib
+bokeh
+theano
+setuptools
